@@ -30,7 +30,8 @@ Picture this: you fire up Obsidian, and bam—Journaling Prompts Plugin greets y
 
 3. **Link to Obsidian**
    - Find your Obsidian vault (where your notes chill).  
-   - Drop this into `.obsidian/plugins`:  
+   - Drop this into `.obsidian/plugins`:
+     
 
  	```bash
 	ln -s /path/to/journaling-prompts-plugin /path/to/vault/.obsidian/plugins/journaling-prompts-plugin**
