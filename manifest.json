@@ -1,0 +1,10 @@
+{
+	"id": "journaling-prompt-plugin",
+	"name": "Journaling Prompt Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Just A Plugin To Remember U Who And Where U Stand? LOL!",
+	"author": "PrinceTheProgrammer",
+	"authorUrl": "https://princetheprogrammer.me",
+	"isDesktopOnly": false
+}
