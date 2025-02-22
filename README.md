@@ -20,3 +20,14 @@ Picture this: you fire up Obsidian, and bam—Journaling Prompts Plugin greets y
    ```bash
    git clone https://github.com/your-username/journaling-prompts-plugin.git
    cd journaling-prompts-plugin
+
+2. **Install the Goodies**
+	Get the dependencies sorted with:
+	```bash
+	npm install
+
+3. **Link to Obsidian**
+   - Find your Obsidian vault (where your notes chill).  
+   - Drop this into `.obsidian/plugins`:  
+	```bash
+	ln -s /path/to/journaling-prompts-plugin /path/to/vault/.obsidian/plugins/journaling-prompts-plugin**
