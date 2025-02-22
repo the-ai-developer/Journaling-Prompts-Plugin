@@ -1,5 +1,5 @@
-# Journaling-Prompts-Plugin
-A lightweight Obsidian plugin that sparks daily reflection with customizable journaling prompts, saving your thoughts into neatly timestamped notes. Built for simplicity, with a sleek UI and future LLM-powered insights to uncover who you are and where you’re at. # Journaling Prompts Plugin 📝✨
+# Journaling Prompts Plugin 📝✨
+A lightweight Obsidian plugin that sparks daily reflection with customizable journaling prompts, saving your thoughts into neatly timestamped notes. Built for simplicity, with a sleek UI and future LLM-powered insights to uncover who you are and where you’re at. 
 
 Hey dev fam! Welcome to **Journaling Prompts Plugin**—the slick Obsidian plugin that turns your daily vibe into deep reflections! This lightweight gem throws personality-tailored journaling prompts your way, saves your thoughts in timestamped notes, and sets the stage for some epic LLM-powered insights. Whether you’re an introvert, extrovert, or ambivert, we’ve got your back. Ready to journal like a boss? Let’s dive in!
 
