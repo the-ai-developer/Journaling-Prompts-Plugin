@@ -29,11 +29,11 @@ Picture this: you fire up Obsidian, and bam—Journaling Prompts Plugin greets y
 	npm install
 
 3. **Link to Obsidian**
-   - Find your Obsidian vault (where your notes chill).  
-   - Drop this into `.obsidian/plugins`:
+	Find your Obsidian vault (where your notes chill).  
+	Drop this into `.obsidian/plugins`:
      
  	```bash
-	ln -s /path/to/journaling-prompts-plugin /path/to/vault/.obsidian/plugins/journaling-prompts-plugin
+		ln -s /path/to/journaling-prompts-plugin /path/to/vault/.obsidian/plugins/journaling-prompts-plugin
 
 # Still, I Have Readme.md In Local Machaine! Will Push It Soon! Thank U!
 
