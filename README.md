@@ -20,7 +20,7 @@ Picture this: you fire up Obsidian, and bam—Journaling Prompts Plugin greets y
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/journaling-prompts-plugin.git
+git clone https://github.com/the-ai-developer/Journaling-Prompts-Plugin.git
 cd journaling-prompts-plugin
 ```
 
